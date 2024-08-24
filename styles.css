@@ -198,7 +198,8 @@ transition: 1s;
     }
     .circle:hover .content{
         position: absolute;
-        top: 60%;
+        top: 50%;
+        font-size: 14px;
         left: 0;
         color: rgb(21, 21, 21);
         width: 100%;
